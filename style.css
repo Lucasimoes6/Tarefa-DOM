@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+.container button {
+    background-color: green;
+    border: none;
+    border-radius:16px;
+    padding: 10px;
+    color: white;    
+}
+
+.active {
+    background-color: green;
+}
